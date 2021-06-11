@@ -35,6 +35,204 @@
 		"description": "This mod adds a tiny, 1-block tall mob that looks like a shorter Enderman. He’s a dangerous beast in a tiny, suspiciously adorable, frame with a haunting call. He’s also fast and packs a hefty hit.",
 		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/03/featured-1536x864.png"
 	},{
+		"name": "Supplementaries",
+		"description": "Supplementaries is a great mod full of new and interactive items to add a bit of flair to your builds. It adds things like hanging sign posts that can be written on or have items placed on them. They also move when walked into by you or any entity.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/03/hanging-sign-1536x864.png"
+	},
+	{
+		"name": "Oh The Biomes You’ll Go",
+		"description": "Oh The Biomes You’ll Go is a fantastic and massive biome generating mod that adds more than 80 new biomes to the overworld, nether, and end dimensions! You’ll see a ton of a new forest biomes filled with exotic trees and foods like the Black Forest inspired by the forest of its namesake in Germany.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/black-forest-1536x864.png"
+	},{
+		"name": "Buddycards",
+		"description": "Buddycards is a fun, item collecting mod that adds cards you can find all over your Minecraft world. Currently there are 5 packs containing 54 cards and 1 pack containing 36 cards and you can find them in chests, dungeons and villages!",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/pack-in-chest-1536x864.png"
+	},
+	{
+		"name": "The Legend of Herobrine",
+		"description": "The Legend of Herobrine mod is a revival of the classic Herobrine mod but with a few new additions. With this mod you need to summon Herobrine into your world with a shrine.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/shrine-A-1536x864.png"
+	},{
+		"name": "Slimier Slimes",
+		"description": "Slimier Slimes adds new variations on the slime mob by giving them new abilities and new drops. You’ll notice them immediately from standard slimes since they’ll likely have a different color except for the creeper slime, which can be deceiving since they will explode in much the same way as creepers will. Small ones won’t leave much damage but bigger ones will and they’ll break down into smaller ones after exploding.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/creeper-1536x864.png"
+	},
+	{
+		"name": "GuardsCraft",
+		"description": "GuardsCraft is a guard recruitment mod that aims to help further protect your structures with trained and armed guards. All you’ll need to start is to smelt gold nuggets into crowns. These are the currency used to hire the guards.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/smelting-crowns-1536x864.png"
+	},{
+		"name": "Earth Mobs Mod",
+		"description": "The Earth Mobs Mod adds a few new mobs and some variations on them and existing mobs to make the world of Minecraft a bit more dynamic and interesting. They can be as simple as muddy pigs, which are really just pigs that fall in mud.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/muddy-pig-1536x864.png"
+	},
+	{
+		"name": "Extensive",
+		"description": "Extensive adds a bunch of new biomes, blocks, mobs, and items to your world. You may stumble on the molten plains covered in solid volcanic rock and peppered with molten trees. Here you can harvest molten rock and wood for new blocks to build with. As the biome name suggests, it is full of lava so come prepared!",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/02/molten-plains-1536x864.png"
+	},{
+		"name": "The Cactus Mod",
+		"description": "The Cactus Mod overhauls the uses and applications of the cactus plant ranging from blocks and tools to fully cactus-based mobs! The plant itself got a major upgrade and looks closer to what cacti look like in real life.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/cactus-1536x864.png"
+	},
+	{
+		"name": "Linking Books",
+		"description": "The Linking Books mod is directly inspired by the game Myst and its use of these books to teleport between different dimensions or “ages” as the game refers to them as. You can craft a blank linking book by combining leather and a dye of your choice to a linking panel. Then simply right click the blank book while in hand to write in the location of where you’re standing. This is your initial destination and only one can be added per book.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/book-recipe-1536x864.png"
+	},{
+		"name": "Tetra",
+		"description": "Tetra is a very intricate mod that allows you to craft, tweak and repair tools and weapons with the new workbench it provides. First you’ll need to craft a hammer and right-click a standard crafting table with it. This will transform it into the workbench.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/recipe-1-1536x864.png"
+	},
+	{
+		"name": "Iron Coals",
+		"description": "Iron Coals introduces tiered levels of coal in Minecraft allowing you to drastically increase the smelting rate. The lowest tier right above standard coal is iron coal. Simply surround 8 pieces of coal/charcoal around a block of iron and you have iron coal. It will burn 1.5x the rate of coal.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/iron-1536x864.png"
+	},{
+		"name": "Killer Table",
+		"description": "The Killer Table mod allows you to play on peaceful and still collect any drops from mobs that you won’t encounter. It allows you to still play on survival but gives you the opportunity to obtain dropped items from enemy mobs. All you need to do is craft it and place it in your desired location.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/recipe-1536x864.png"
+	},
+	{
+		"name": "The Undergarden",
+		"description": "The Undergarden is a massive world hidden deep below bedrock that you can only enter via a stone brick portal. You will also need to craft a Catalyst in order to activate the portal.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/portal-1536x864.png"
+	},{
+		"name": "Furniture Mod",
+		"description": "Mr_Crayfish’s Furniture Mod adds more than 80 pieces of furniture to Minecraft that can be used to decorate your home and garden. It comes with a wide variety of new tables and chairs that look significantly more streamlined and clean than the standard options.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2019/08/tables-and-chairs-1536x864.png"
+	},
+	{
+		"name": "Zombie Extreme",
+		"description": "Zombie Extreme adds a ton of new types of zombies and infected mobs to further terrorize your Minecraft experience. It also adds a slew of new weapons and tools and armor to aid in the incoming zombie apocalypse.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/12/armor-1536x864.png"
+	},{
+		"name": "Terraforged",
+		"description": "Terraforged is a terrain generator with a seemingly endless variety of options to choose from. You’ll need to create a new world and select the “terraforged” option in world-type. Then customize to your heart’s content.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/01/steppe-3-1536x864.png"
+	},
+	{
+		"name": "Easy Villagers",
+		"description": "The Easy Villagers Mod allows you to utilize villagers in a much more concise and controlled way. It allows you to pick up and place villagers by pressing V while aiming at them or sneaking and right-clicking them. Then you can place them wherever you like by right-clicking the ground!",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/12/taking-1536x864.png"
+	},{
+		"name": "Repurpose",
+		"description": "The Repurpose mod adds a bunch of new improvements and upgrades to standard items and blocks in the game. The mod adds several swift blades for significantly faster swinging speed. While regular diamond swords have a 1.6 attack speed, the diamond swift blade has a 14 attack speed! This makes for a much shorter refresh time between attacks.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/swift-1536x864.png"
+	},
+	{
+		"name": "Vanilla Hammers",
+		"description": "Vanilla Hammers adds a bunch of new hammers to Minecraft making your mining experience much quicker. Each hammer varies in durability and speed depending on the material used but they will all clear a 3×3 stone block path with one break. The base hammer is made of wood and is the slowest of them all.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/wood-1536x864.png"
+	},{
+		"name": "Packed Up",
+		"description": "Packed Up is a tiered backpack mod to help alleviate the storage limitations you might be experiencing in your Minecraft travels. It starts with the basic backpack holding 3 extra rows of storage.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/travel-1536x864.png"
+	},
+	{
+		"name": "Fish Traps",
+		"description": "Fish Traps is an easy way to catch fish or items without needing a rod or waiting for a catch. It comes with 3 tiers ranging from wood to iron to diamond. Each tier increases the types and rarity of fish and items.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/recipe-1-1536x864.png"
+	},{
+		"name": "The Mighty Architect",
+		"description": "The Mighty Architect is a fully loaded schematic mod to make structures quickly with just a few steps. This can be a great mod to start out a build and add to it if you need some inspiration or simply want some easy structures assembled quickly. The mod has a blueprint mode accessed by pressing G. Here you can select from a variety of themes you’d like to style the structures as such as medieval.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/gui-1536x864.png"
+	},
+	{
+		"name": "Towers Of The Wild",
+		"description": "Towers of the Wild adds sporadic, sky high monuments similar to the Breath of the Wild video game. They can spring up in any biome and because of their height and narrow footpath they can certainly be a challenge to scale.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/field-1536x864.png"
+	},{
+		"name": "Extra Golems",
+		"description": "Extra Golems adds a massive amount of new golems to protect your villages. They can be made out of nearly any block and all have different strengths, abilities and damage. All you need is a Golem Spell and combine that with a pumpkin to make the Golem Head.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/11/recipe-1536x864.png"
+	},
+	{
+		"name": "Void Tanks",
+		"description": "Void Tanks is a tiered storage system for water and lava. Each tank ranges from stone to gold to iron to diamond and holds 4, 16, 64 and 256 buckets in that order.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/recipe-1536x864.png"
+	},{
+		"name": "Misc Additions",
+		"description": "Misc Additions is a mod that adds a variety of new items and blocks and doesn’t detract far from vanilla. It adds new charred blocks for new wood types, doors, fences, etc. You can get a charred tree by using the new Charred Bone Meal on dead bushes.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/charred-wood-1536x864.png"
+	},
+	{
+		"name": "Flopper",
+		"description": "Flopper is an easy to use fluid transfer tool similar to hoppers. Just place it and fill it with the fluid of your choice. It can hold 5,000 units of water or lava.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/floppers-1536x864.png"
+	},{
+		"name": "Repurposed Structures",
+		"description": "Repurposed Structures aims to amplify existing structures in Minecraft, like villages or dungeons, and creating a much larger variety to explore.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/stone-village-1536x864.png"
+	},
+	{
+		"name": "GemsPlus",
+		"description": "Gems! Gems everywhere! This mod adds a ton of new gems to the game that can all be crafted into new tools, armor, and even colored glass!",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2016/05/examples-1.png"
+	},{
+		"name": "Just A Raft Mod",
+		"description": "Just a Raft mod adds 6 new rafts to the game to aid in your watery travels.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/raft-1536x864.png"
+	},
+	{
+		"name": "Dungeons Plus",
+		"description": "Dungeons Plus makes standard dungeons much more enjoyable in Minecraft. There are several new variations on dungeons found in nearly every biome. Towers look like dilapidated medieval ruins and they are filled with mobs and loot to plunder.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/tower-1536x864.png"
+	},{
+		"name": "Tropicraft",
+		"description": "Tropicraft is a dimension only accessible by having a good time. You need to craft a beach chair and a Piña Colada and have a seat at sunset. Only then can you drink your cocktail and you’ll be transported to Tropicraft.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/chair-1536x864.png"
+	},
+	{
+		"name": "Dank Storage",
+		"description": "Dank Storage is a new large storage system that adds 7 tiers of chests and each tier increases its capacity with each upgrade.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/chests-1536x864.png"
+	},{
+		"name": "Enhanced Mushrooms",
+		"description": "Enhanced Mushrooms improves the look and usefulness of mushrooms. The stalk and caps have a new texture that gives them a bit more realism and depth.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-texture-1536x864.png"
+	},
+	{
+		"name": "The Bumblezone",
+		"description": "The Bumblezone is an entire dimension filled with bees and made out of a honeycombs. It’s almost as if you shrink down and transport inside their hives. All you need is an Ender Pearl and throw it at a bee hive to instantly teleport in.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/ender-1536x864.png"
+	},{
+		"name": "Savage & Ravage",
+		"description": "Savage & Ravage updates the Pillagers of Minecraft as well as adds several new creeper features and upgrades. Pillager Outposts have been redesigned and the Pillagers are a bit more aggressive.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/outpost-1536x864.png"
+	},
+	{
+		"name": "Inventory HUD+",
+		"description": "Inventory HUD+ allows you to see much more than standard Minecraft allows with displays. You can now see what armor, weapons, and tools you’re carrying as well as how damaged they are. It’ll even show the total arrows you have available. And you can see a floating display of everything in your inventory right on your main screen.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/default-1536x864.png"
+	},{
+		"name": "Upgrade Aquatic",
+		"description": "Upgrade Aquatic adds a slew of new ocean features, mobs and blocks harvested from the briny deep. There are several new fish and jellyfish that can be caught or simply admired from afar.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-thing-1536x864.png"
+	},
+	{
+		"name": "YUNG’s Better Mineshafts",
+		"description": "YUNG’s Better Mineshafts adds 9 new biomes to mineshafts alongside some major updates that give them more life or lack thereof in the case of them being abandoned. The mod expands existing mineshafts to make them more interesting and adds more structures to make them more realistic. You’ll notice right away the vertical tunnel that can go down an incredible distance.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/details-3-1536x864.png"
+	},{
+		"name": "",
+		"description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"img": ""
+	},{
+		"name": "",
+		"description": "",
+		"img": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"img": ""
+	},{
 		"name": "",
 		"description": "",
 		"img": ""
