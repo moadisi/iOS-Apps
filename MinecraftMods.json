@@ -215,76 +215,26 @@
 		"description": "YUNG’s Better Mineshafts adds 9 new biomes to mineshafts alongside some major updates that give them more life or lack thereof in the case of them being abandoned. The mod expands existing mineshafts to make them more interesting and adds more structures to make them more realistic. You’ll notice right away the vertical tunnel that can go down an incredible distance.",
 		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/details-3-1536x864.png"
 	},{
-		"name": "",
-		"description": "",
-		"img": ""
+		"name": "Scannable",
+		"description": "Scannable allows you to survey the area around you and find various items, mobs, or fluids in a snap. The scanner loads up to 3 modules at a time and you’ll see the world around you change once it’s activated.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/charging-1536x864.png"
 	},
 	{
-		"name": "",
-		"description": "",
-		"img": ""
+		"name": "Waystones",
+		"description": "Waystones is a great and practical teleportation mod that relies on physical totems or scrolls to warp to your destinations.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2018/09/waystone.png"
 	},{
-		"name": "",
-		"description": "",
-		"img": ""
+		"name": "Atum 2",
+		"description": "Atum 2 is a new desert dimension that can be reached by crafting a sandstone portal and tossing a scarab in a pool of water.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2019/04/portalA.png"
 	},
 	{
-		"name": "",
-		"description": "",
-		"img": ""
+		"name": "Traveler’s Backpack",
+		"description": "Traveler’s Backpack is a handy tool that adds about 45 extra inventory slots including tanks to hold liquids. All you need to do is craft it and either place it on the ground and hold shift while right-clicking it with an empty hand or hold the backpack in your hand, hit B and then press the button in the bottom left to wear it.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/backpack-1536x864.png"
 	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
-	{
-		"name": "",
-		"description": "",
-		"img": ""
-	},
+		"name": "Incubation",
+		"description": "Incubation is a new way for easy egg collection. It adds simply a nest for the chickens to lay their eggs in instead of dropping them wherever they’re standing. They can be found naturally or crafted.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/nest1-1536x864.png"
+	}
 ]
