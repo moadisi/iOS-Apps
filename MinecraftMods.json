@@ -1,4 +1,90 @@
-[{
+[
+	{
+		"name": "Misc Additions",
+		"description": "Misc Additions is a mod that adds a variety of new items and blocks and doesn’t detract far from vanilla. It adds new charred blocks for new wood types, doors, fences, etc. You can get a charred tree by using the new Charred Bone Meal on dead bushes.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/charred-wood-1536x864.png"
+	},
+	{
+		"name": "Flopper",
+		"description": "Flopper is an easy to use fluid transfer tool similar to hoppers. Just place it and fill it with the fluid of your choice. It can hold 5,000 units of water or lava.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/floppers-1536x864.png"
+	},{
+		"name": "Repurposed Structures",
+		"description": "Repurposed Structures aims to amplify existing structures in Minecraft, like villages or dungeons, and creating a much larger variety to explore.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/stone-village-1536x864.png"
+	},
+	{
+		"name": "GemsPlus",
+		"description": "Gems! Gems everywhere! This mod adds a ton of new gems to the game that can all be crafted into new tools, armor, and even colored glass!",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2016/05/examples-1.png"
+	},{
+		"name": "Just A Raft Mod",
+		"description": "Just a Raft mod adds 6 new rafts to the game to aid in your watery travels.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/raft-1536x864.png"
+	},
+	{
+		"name": "Dungeons Plus",
+		"description": "Dungeons Plus makes standard dungeons much more enjoyable in Minecraft. There are several new variations on dungeons found in nearly every biome. Towers look like dilapidated medieval ruins and they are filled with mobs and loot to plunder.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/tower-1536x864.png"
+	},{
+		"name": "Tropicraft",
+		"description": "Tropicraft is a dimension only accessible by having a good time. You need to craft a beach chair and a Piña Colada and have a seat at sunset. Only then can you drink your cocktail and you’ll be transported to Tropicraft.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/chair-1536x864.png"
+	},
+	{
+		"name": "Dank Storage",
+		"description": "Dank Storage is a new large storage system that adds 7 tiers of chests and each tier increases its capacity with each upgrade.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/chests-1536x864.png"
+	},{
+		"name": "Enhanced Mushrooms",
+		"description": "Enhanced Mushrooms improves the look and usefulness of mushrooms. The stalk and caps have a new texture that gives them a bit more realism and depth.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-texture-1536x864.png"
+	},
+	{
+		"name": "The Bumblezone",
+		"description": "The Bumblezone is an entire dimension filled with bees and made out of a honeycombs. It’s almost as if you shrink down and transport inside their hives. All you need is an Ender Pearl and throw it at a bee hive to instantly teleport in.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/ender-1536x864.png"
+	},{
+		"name": "Savage & Ravage",
+		"description": "Savage & Ravage updates the Pillagers of Minecraft as well as adds several new creeper features and upgrades. Pillager Outposts have been redesigned and the Pillagers are a bit more aggressive.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/outpost-1536x864.png"
+	},
+	{
+		"name": "Inventory HUD+",
+		"description": "Inventory HUD+ allows you to see much more than standard Minecraft allows with displays. You can now see what armor, weapons, and tools you’re carrying as well as how damaged they are. It’ll even show the total arrows you have available. And you can see a floating display of everything in your inventory right on your main screen.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/default-1536x864.png"
+	},{
+		"name": "Upgrade Aquatic",
+		"description": "Upgrade Aquatic adds a slew of new ocean features, mobs and blocks harvested from the briny deep. There are several new fish and jellyfish that can be caught or simply admired from afar.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-thing-1536x864.png"
+	},
+	{
+		"name": "YUNG’s Better Mineshafts",
+		"description": "YUNG’s Better Mineshafts adds 9 new biomes to mineshafts alongside some major updates that give them more life or lack thereof in the case of them being abandoned. The mod expands existing mineshafts to make them more interesting and adds more structures to make them more realistic. You’ll notice right away the vertical tunnel that can go down an incredible distance.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/details-3-1536x864.png"
+	},{
+		"name": "Scannable",
+		"description": "Scannable allows you to survey the area around you and find various items, mobs, or fluids in a snap. The scanner loads up to 3 modules at a time and you’ll see the world around you change once it’s activated.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/charging-1536x864.png"
+	},
+	{
+		"name": "Waystones",
+		"description": "Waystones is a great and practical teleportation mod that relies on physical totems or scrolls to warp to your destinations.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2018/09/waystone.png"
+	},{
+		"name": "Atum 2",
+		"description": "Atum 2 is a new desert dimension that can be reached by crafting a sandstone portal and tossing a scarab in a pool of water.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2019/04/portalA.png"
+	},
+	{
+		"name": "Traveler’s Backpack",
+		"description": "Traveler’s Backpack is a handy tool that adds about 45 extra inventory slots including tanks to hold liquids. All you need to do is craft it and either place it on the ground and hold shift while right-clicking it with an empty hand or hold the backpack in your hand, hit B and then press the button in the bottom left to wear it.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/backpack-1536x864.png"
+	},{
+		"name": "Incubation",
+		"description": "Incubation is a new way for easy egg collection. It adds simply a nest for the chickens to lay their eggs in instead of dropping them wherever they’re standing. They can be found naturally or crafted.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/nest1-1536x864.png"
+	},{
 		"name": "Scuba Gear",
 		"description": "Scuba Gear is a fun mod that adds a full set of diving equipment that aids in better underwater performance. There are 4 pieces that can only be acquired by taking them from Drowned that spawn by Ocean Ruins.",
 		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/05/drowned-armor-1536x864.png"
@@ -151,90 +237,5 @@
 		"name": "Void Tanks",
 		"description": "Void Tanks is a tiered storage system for water and lava. Each tank ranges from stone to gold to iron to diamond and holds 4, 16, 64 and 256 buckets in that order.",
 		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/recipe-1536x864.png"
-	},{
-		"name": "Misc Additions",
-		"description": "Misc Additions is a mod that adds a variety of new items and blocks and doesn’t detract far from vanilla. It adds new charred blocks for new wood types, doors, fences, etc. You can get a charred tree by using the new Charred Bone Meal on dead bushes.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/charred-wood-1536x864.png"
-	},
-	{
-		"name": "Flopper",
-		"description": "Flopper is an easy to use fluid transfer tool similar to hoppers. Just place it and fill it with the fluid of your choice. It can hold 5,000 units of water or lava.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/floppers-1536x864.png"
-	},{
-		"name": "Repurposed Structures",
-		"description": "Repurposed Structures aims to amplify existing structures in Minecraft, like villages or dungeons, and creating a much larger variety to explore.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/stone-village-1536x864.png"
-	},
-	{
-		"name": "GemsPlus",
-		"description": "Gems! Gems everywhere! This mod adds a ton of new gems to the game that can all be crafted into new tools, armor, and even colored glass!",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2016/05/examples-1.png"
-	},{
-		"name": "Just A Raft Mod",
-		"description": "Just a Raft mod adds 6 new rafts to the game to aid in your watery travels.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/raft-1536x864.png"
-	},
-	{
-		"name": "Dungeons Plus",
-		"description": "Dungeons Plus makes standard dungeons much more enjoyable in Minecraft. There are several new variations on dungeons found in nearly every biome. Towers look like dilapidated medieval ruins and they are filled with mobs and loot to plunder.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/tower-1536x864.png"
-	},{
-		"name": "Tropicraft",
-		"description": "Tropicraft is a dimension only accessible by having a good time. You need to craft a beach chair and a Piña Colada and have a seat at sunset. Only then can you drink your cocktail and you’ll be transported to Tropicraft.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/10/chair-1536x864.png"
-	},
-	{
-		"name": "Dank Storage",
-		"description": "Dank Storage is a new large storage system that adds 7 tiers of chests and each tier increases its capacity with each upgrade.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/chests-1536x864.png"
-	},{
-		"name": "Enhanced Mushrooms",
-		"description": "Enhanced Mushrooms improves the look and usefulness of mushrooms. The stalk and caps have a new texture that gives them a bit more realism and depth.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-texture-1536x864.png"
-	},
-	{
-		"name": "The Bumblezone",
-		"description": "The Bumblezone is an entire dimension filled with bees and made out of a honeycombs. It’s almost as if you shrink down and transport inside their hives. All you need is an Ender Pearl and throw it at a bee hive to instantly teleport in.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/ender-1536x864.png"
-	},{
-		"name": "Savage & Ravage",
-		"description": "Savage & Ravage updates the Pillagers of Minecraft as well as adds several new creeper features and upgrades. Pillager Outposts have been redesigned and the Pillagers are a bit more aggressive.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/outpost-1536x864.png"
-	},
-	{
-		"name": "Inventory HUD+",
-		"description": "Inventory HUD+ allows you to see much more than standard Minecraft allows with displays. You can now see what armor, weapons, and tools you’re carrying as well as how damaged they are. It’ll even show the total arrows you have available. And you can see a floating display of everything in your inventory right on your main screen.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/default-1536x864.png"
-	},{
-		"name": "Upgrade Aquatic",
-		"description": "Upgrade Aquatic adds a slew of new ocean features, mobs and blocks harvested from the briny deep. There are several new fish and jellyfish that can be caught or simply admired from afar.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/brown-thing-1536x864.png"
-	},
-	{
-		"name": "YUNG’s Better Mineshafts",
-		"description": "YUNG’s Better Mineshafts adds 9 new biomes to mineshafts alongside some major updates that give them more life or lack thereof in the case of them being abandoned. The mod expands existing mineshafts to make them more interesting and adds more structures to make them more realistic. You’ll notice right away the vertical tunnel that can go down an incredible distance.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/details-3-1536x864.png"
-	},{
-		"name": "Scannable",
-		"description": "Scannable allows you to survey the area around you and find various items, mobs, or fluids in a snap. The scanner loads up to 3 modules at a time and you’ll see the world around you change once it’s activated.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/09/charging-1536x864.png"
-	},
-	{
-		"name": "Waystones",
-		"description": "Waystones is a great and practical teleportation mod that relies on physical totems or scrolls to warp to your destinations.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2018/09/waystone.png"
-	},{
-		"name": "Atum 2",
-		"description": "Atum 2 is a new desert dimension that can be reached by crafting a sandstone portal and tossing a scarab in a pool of water.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2019/04/portalA.png"
-	},
-	{
-		"name": "Traveler’s Backpack",
-		"description": "Traveler’s Backpack is a handy tool that adds about 45 extra inventory slots including tanks to hold liquids. All you need to do is craft it and either place it on the ground and hold shift while right-clicking it with an empty hand or hold the backpack in your hand, hit B and then press the button in the bottom left to wear it.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/backpack-1536x864.png"
-	},{
-		"name": "Incubation",
-		"description": "Incubation is a new way for easy egg collection. It adds simply a nest for the chickens to lay their eggs in instead of dropping them wherever they’re standing. They can be found naturally or crafted.",
-		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/nest1-1536x864.png"
 	}
 ]
