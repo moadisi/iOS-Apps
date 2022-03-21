@@ -1,4 +1,4 @@
-{
+[{
 		"name": "Bloon camp",
 		"description": "The first player to reach zero life loses. In this way, the main goal of BTDB2 is to get the other player to lose all lives first. The two main game mechanics that the players use to achieve this goal are defense and attack. Players choose their heroes and three towers that are assigned before the party begins. There is limited time to choose heroes and tower gear and mock each other’s heroes. A map is then randomly selected, but either player can skip a map once per pre-round selection. In the loadout menu, both players will reveal their heroes but not their tower loadout.",
 		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Bloons-TD-battles-2-Bloon-camp-1024x461.jpg"
@@ -30,4 +30,4 @@
 		"name": "Monkey Masteries, profile and Hero Rewards",
 		"description": "Bling is the name for most of the cosmetic options in Bloons TD Battles 2, including Emoticons, Bloon Stickers, MOAB Skins, Pop FX, and Boost FX. Avatar icons and banners are also considered bling, although they are not listed in the bling collection. Bling is based on a seasonal system in which specific bling is offered for sale for each season.",
 		"img": "https://gamingonphone.com/wp-content/uploads/2021/12/Bloons-TD-battles-2-Monkeys-Heroes-and-Bloons-1024x1024.jpg"
-	},
+	}]
